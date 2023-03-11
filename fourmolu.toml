@@ -1,0 +1,21 @@
+[common]
+line_length = 100
+indent_size = 2
+force_trailing_comma = false
+no_trailing_whitespace = true
+no_tabs = true
+vertical_align = true
+separate_imports = true
+no_punctuation_imports = false
+blank_lines_after_module = 1
+blank_lines_after_imports = 1
+multiline_where_padding = 1
+align_record_fields = true
+align_do_blocks = false
+group_imports = true
+no_unused_imports = true
+trailing_newline = true
+newline_after_language_pragma = false
+prefer_single_quotes = true
+
+[formattingOn]
